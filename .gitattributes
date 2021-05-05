@@ -1,0 +1,6 @@
+* text=auto
+*.css linguist-vendored
+*.scss linguist-vendored
+public/**/*.js   linguist-vendored
+public/*.js linguist-vendored
+CHANGELOG.md export-ignore
